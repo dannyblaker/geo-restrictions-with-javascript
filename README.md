@@ -6,7 +6,7 @@ Australia has been used as an example, but the script also works for most other 
 
 **You are most welcome to use this code in your commercial projects, all that I ask in return is that you credit my work by providing a link back to this repository. Thank you & Enjoy!**
 
-![geo-restrictions](geo-restrictions.webp)
+![geo-restrictions](geo-restrictions.png)
 
 ## Features
 
